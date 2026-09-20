@@ -6,20 +6,20 @@
 ---
 
 ## 🛠 مهارت‌ها
-- **Frontend:** React.js, Redux Toolkit, RTK Query, Entity Adapter, Tailwind CSS, Formik  
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose  
+- **Frontend:** React.js, Redux Toolkit, RTK Query, Tailwind CSS 
+- **Backend:** Node.js, Express.js, mysql 
 - **ابزارها:** Git, GitHub, Postman, REST API, JSON Server  
 
 ---
 
 ## 🚀 پروژه‌ها
 ### 🛒 [فروشگاه آنلاین](#)  
-- React, Redux Toolkit, RTK Query, MongoDB, Express  
+- React, Redux Toolkit, RTK Query, mysql, Express  
 - سبد خرید اختصاصی، احراز هویت (ورود، ثبت‌نام، فراموشی رمز)، مدیریت سفارشات و کامنت‌ها، پرداخت مرحله‌ای  
 
 ### 🍲 [Tarkhineh | Food Ordering Website](#)  
 - Frontend: React + Tailwind  
-- Backend: Node.js + MongoDB  
+- Backend: Node.js + mysql
 - شامل مدیریت غذاها، سبد خرید، سفارشات و نظرات  
 
 ### 📊 [داشبورد ادمین](#)  
